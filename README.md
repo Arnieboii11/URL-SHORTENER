@@ -1,2 +1,2 @@
 # URL-SHORTENER
-created a url shortener using python program
+Created a url shortener using python program
